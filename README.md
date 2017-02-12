@@ -10,4 +10,4 @@ FEMALE AUDIO DATA: https://www.dropbox.com/s/bhc9vnixuz81tx4/Female1.wav?dl=0
 
 MALE AUDIO DATA: https://www.dropbox.com/s/dpawvo4zspgupoc/Male1.wav?dl=0
 
-All of the test audio file is given through links which are parsed through a web-scrapper, audio contents extracted, and saved to a .wav file on the desk, resaved for the next file, and so on. 
+All of the test audio file is given through links (contained on the TesterOfModel.py file) which are parsed through a web-scrapper, audio contents extracted, and saved to a .wav file on the desk, resaved for the next file, and so on. 
