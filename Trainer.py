@@ -12,8 +12,6 @@ from pydub import AudioSegment
 from sklearn import preprocessing
 
 
-
-
 BOY_VOICE = ["http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=150",
 "http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=152",
 "http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=153",
@@ -73,10 +71,6 @@ GIRL_VOICE = ["http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=445
 "http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=748",
 "http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=749",
 "http://accent.gmu.edu/searchsaa.php?function=detail&speakerid=764"]
-
-
-
-
 
 
 for t in BOY_VOICE:
